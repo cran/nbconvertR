@@ -1,10 +1,11 @@
-f227f6df9a2e8e31d6202e74f78e25ce *DESCRIPTION
+302b3267f4b32caaed702795109b6a3d *DESCRIPTION
 5ae0289e78014d0224fb6c67e4b72f7d *NAMESPACE
-f9c46341124589e4c280e69c25489b39 *R/nbconvertR.r
+3106459061986cddbbf0da92425f61e2 *NEWS
+4898328dad2ac0dee8cad34344eb3be6 *R/nbconvertR.r
 a53940e643bb650c282417f50e4313a6 *build/vignette.rds
 214533a57b48865678b7834cd1fd3bae *inst/doc/test-vignette.ipynb
 4857009cb6ee6aef1889754beef13152 *inst/doc/test-vignette.ipynbmeta
-5d2f4582873c9d29a4565c53df7c8c95 *inst/doc/test-vignette.pdf
+9ece8ffdcb598ce66dfc24b104d1860a *inst/doc/test-vignette.pdf
 5c8c0ce814050df7195881f2b8267d46 *inst/doc/test-vignette.r
 de350a689f3eae51975d73c44138bf75 *man/nbconvert.Rd
 214533a57b48865678b7834cd1fd3bae *vignettes/test-vignette.ipynb
